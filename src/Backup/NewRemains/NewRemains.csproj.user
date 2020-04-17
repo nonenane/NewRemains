@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>261 "Новые Остатки в закупочных ценах-Бухгалтер" 192.168.5.50 dbase1 chechulina deniza "Спорыхин Г. Ю." БГЛ "Бухгалтер" "ПВО" 8 "dbase1_kom" 427 192.168.5.246 dbase1 0 0</StartArguments>
+  </PropertyGroup>
+</Project>

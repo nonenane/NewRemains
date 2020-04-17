@@ -1,0 +1,98 @@
+D:\spg\NewRemains\NewRemains\bin\Debug\NewRemains.exe
+D:\spg\NewRemains\NewRemains\bin\Debug\NewRemains.pdb
+D:\spg\NewRemains\NewRemains\bin\Debug\Framework.dll
+D:\spg\NewRemains\NewRemains\bin\Debug\Interop.Excel.dll
+D:\spg\NewRemains\NewRemains\bin\Debug\office.dll
+D:\spg\NewRemains\NewRemains\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\spg\NewRemains\NewRemains\bin\Debug\Framework.pdb
+D:\spg\NewRemains\NewRemains\bin\Debug\Framework.xml
+D:\spg\NewRemains\NewRemains\bin\Debug\office.xml
+D:\spg\NewRemains\NewRemains\obj\Debug\ResolveAssemblyReference.cache
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.frmMain.resources
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.frmWait.resources
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.Cache
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.exe
+D:\spg\NewRemains\NewRemains\obj\Debug\NewRemains.pdb
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.exe
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.pdb
+D:\Works\Current\RemainsC#\1016\src\NewRemains\bin\Debug\NewRemains.exe
+D:\Works\Current\RemainsC#\1016\src\NewRemains\bin\Debug\NewRemains.pdb
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.frmMain.resources
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.frmWait.resources
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+D:\Works\Current\RemainsC#\1016\src\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.Cache
+D:\spg\Проекты\tmp\src\NewRemains\bin\Debug\NewRemains.exe
+D:\spg\Проекты\tmp\src\NewRemains\bin\Debug\NewRemains.pdb
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\ResolveAssemblyReference.cache
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.frmMain.resources
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.frmWait.resources
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.Cache
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.exe
+D:\spg\Проекты\tmp\src\NewRemains\obj\Debug\NewRemains.pdb
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.exe
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.pdb
+D:\Works\Current\RemainsC#\src\NewRemains\bin\Debug\NewRemains.exe
+D:\Works\Current\RemainsC#\src\NewRemains\bin\Debug\NewRemains.pdb
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.frmMain.resources
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.frmWait.resources
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+D:\Works\Current\RemainsC#\src\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.Cache
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.exe
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.pdb
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\bin\Debug\NewRemains.exe
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\bin\Debug\NewRemains.pdb
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.csprojResolveAssemblyReference.cache
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.frmMain.resources
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.frmWait.resources
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+D:\spg\Проекты\договор 2325\Остатки\src\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.Cache
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.exe
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.pdb
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\NewRemains.exe.config
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\NewRemains.exe
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\NewRemains.pdb
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\Framework.dll
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\Interop.Excel.dll
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\EPPlus.dll
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\Interop.WIA.dll
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\stdole.dll
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\Framework.pdb
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\Framework.xml
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\bin\Debug\Framework.dll.config
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.csprojAssemblyReference.cache
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.frmMain.resources
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.frmWait.resources
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.cache
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.csproj.CoreCompileInputs.cache
+C:\Old_Disk_D\spg\Проекты\договор 2492\Новые остатки в закупочных ценах\src\NewRemains\obj\Debug\NewRemains.csproj.CopyComplete
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\NewRemains.exe.config
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\NewRemains.exe
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\NewRemains.pdb
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\Interop.Excel.dll
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\EPPlus.dll
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\Interop.WIA.dll
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\Framework.pdb
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\Framework.xml
+D:\Работа\договор 2670\NewRemains\src\NewRemains\bin\Debug\Framework.dll.config
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.csprojAssemblyReference.cache
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.frmMain.resources
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.frmSettings.resources
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.frmWait.resources
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.Properties.Resources.resources
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.csproj.GenerateResource.cache
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.csproj.CoreCompileInputs.cache
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.csproj.CopyComplete
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.exe
+D:\Работа\договор 2670\NewRemains\src\NewRemains\obj\Debug\NewRemains.pdb

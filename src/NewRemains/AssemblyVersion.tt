@@ -1,0 +1,18 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ output extension=".cs" #>
+// Assembly Version
+// Generated at <#= DateTime.Now #>
+//
+// [major version].[minor version].[build number].[revision number]
+// build number = yy MM = Year Month (e.g.: 1102 = 2011 February)
+// revision number = ddHH = Day Hour (e.g.: 1411 = 14 "February" at 11 )
+//
+// to generate for every build in BuildEvents:
+// "%CommonProgramFiles%\Microsoft Shared\TextTemplating\1.2\TextTransform.exe" "$(ProjectDir)AssemblyVersion.tt" -out "$(ProjectDir)AssemblyVersion.cs"
+
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+[assembly: AssemblyVersion("1.0.<#= DateTime.Now.ToString("yyMM") #>.<#= DateTime.Now.ToString("ddHH") #>")]
+[assembly: AssemblyFileVersion("1.0.<#= DateTime.Now.ToString("yyMM") #>.<#= DateTime.Now.ToString("ddHH") #>")]

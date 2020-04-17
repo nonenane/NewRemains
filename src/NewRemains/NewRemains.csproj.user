@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>261 "Ведение накладных-Оператор" 192.168.5.85\k21 dbase1 SuperUser fate  "СГЮ" БГЛ "Главный бухгалтер" "ГСТ  " 3 "тестовая OPR_dbase1 isi_15" 427 192.168.5.85\k21_SQLC dbase1</StartArguments>
+  </PropertyGroup>
+</Project>
